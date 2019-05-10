@@ -1,4 +1,5 @@
-#import torch
+__author__ = 'Will@PCVG'
+# an implementation based on Hu et al.
 import collections
 import numpy as np
 import torch
