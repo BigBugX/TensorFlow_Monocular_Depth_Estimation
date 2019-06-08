@@ -1,5 +1,7 @@
 __author__ = 'Will@PCVG'
-# an implementation based on Hu et al.
+# an implementation based on the method proposed 
+# in "revisiting high resolution ...".
+# the pretrained weight is obtained from Hu et al.
 import collections
 import numpy as np
 import torch
